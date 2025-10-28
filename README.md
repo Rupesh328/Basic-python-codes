@@ -22,4 +22,4 @@ Covers loops, conditionals, functions, strings, lists, file handling, and more.
 
 ---
 
-💻 Created by [Your Name]
+💻 Created by [Rupesh Bhardwaj]

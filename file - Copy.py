@@ -1,0 +1,5 @@
+f=open("edit.txt","r")
+#line1 =f.readline(4)
+#print(line1)
+f.write("I want to learn javascript towworrow. 123")
+f.close()
